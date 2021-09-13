@@ -1,0 +1,155 @@
+body {
+    font-size: 15pt;
+    background-color: lightblue;
+}
+
+.popitH {
+  background-color: lightcyan;
+  text-align: center;
+  margin: 5px 120px 0 120px;
+  border-radius: 15px;
+  border: solid;
+}
+
+
+
+
+.B1 {
+  border-radius: 50px 0 0 0;
+  padding: 35px;
+  margin-right: 0;
+  background-color: red;
+}
+.B2 {
+  border-radius: 0 0 0 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: red;
+}
+.B3 {
+  border-radius: 0 50px 0 0;
+  padding: 35px;
+  margin-left: 0;
+  background-color: red;
+}
+.B4 {
+  border-radius: 0 0 0 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: coral;
+}
+.B5 {
+  border-radius: 0 0 0 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: coral;
+}
+.B6 {
+  border-radius: 0 0 0 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: coral;
+}
+.B7 {
+  border-radius: 0 0 0 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: yellow;
+}
+.B8 {
+  border-radius: 0 0 0 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: yellow;
+}
+.B9 {
+  border-radius: 0 0 0 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: yellow;
+}
+.B10 {
+  border-radius: 0 0 0 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: greenyellow;
+}
+.B11 {
+  border-radius: 0 0 0 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: greenyellow;
+}
+.B12 {
+  border-radius: 0 0 0 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: greenyellow;
+}
+.B13 {
+  border-radius: 0 0 0 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: blue;
+}
+.B14 {
+  border-radius: 0 0 0 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: blue;
+}
+.B15 {
+  border-radius: 0 0 0 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: blue;
+}
+.B16 {
+  border-radius: 0 0 0 30px;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: blueviolet;
+}
+.B17 {
+  border-radius: 0 0 0 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: blueviolet;
+}
+.B18 {
+  border-radius: 0 0 30px 0;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: blueviolet;
+}
+.B19 {
+  border-radius: 0 0 34px 34px;
+  padding: 35px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: wheat;
+}
+
+
+
+
+
+div {
+  text-align: center;
+}
